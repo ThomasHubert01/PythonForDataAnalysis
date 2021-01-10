@@ -19,3 +19,8 @@ I tested some model such as Random Forest Regressor and KNeighborRegressor to fi
 ## IV. Flask API
 
 I then created the Flask API using the selected model.
+
+
+### Conclusion :
+
+The eating habit are the most correlated with the obesity level, along with the family history, which is understandable as those habits can come from the family itself.
